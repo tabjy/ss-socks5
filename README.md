@@ -11,7 +11,7 @@ It's recommended to compile the latest version from source code:
 $ go get -u -v github.com/tabjy/yagl/ss-socks5
 ```
 
-Alternatively, you can download pre-built binaries from [release page](https://github.com/tabjy/yagl/ss-socks5/releases).
+Alternatively, you can download pre-built binaries from [release page](https://github.com/tabjy/ss-socks5/releases).
 
 ### Usage
 
