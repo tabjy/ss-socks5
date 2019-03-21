@@ -1,12 +1,12 @@
 # ss-socks5
-a shadowsocks server dialing though another SOCKS5 proxy, with shadowsocks-manager API support.
+A shadowsocks server dialing through another SOCKS5 proxy, with shadowsocks-manager API support.
 
 ## Getting Started
-ss-socks5 works just like any other shadowsocks server.
+ss-socks5 works like other shadowsocks server.
 
 ### Installing
 
-It's recommended to compile the latest version from source code:
+Compile the latest version from source code:
 ```bash
 $ go get -u -v github.com/tabjy/yagl/ss-socks5
 ```
