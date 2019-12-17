@@ -8,7 +8,7 @@ ss-socks5 works like other shadowsocks server.
 
 Compile the latest version from source code:
 ```bash
-$ go get -u -v github.com/tabjy/yagl/ss-socks5
+$ go get -u -v github.com/tabjy/ss-socks5
 ```
 
 Alternatively, you can download pre-built binaries from [release page](https://github.com/tabjy/ss-socks5/releases).
